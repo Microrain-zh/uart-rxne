@@ -1,0 +1,9 @@
+dcmi\guiconf.o: ..\emWin\Config\GUIConf.c
+dcmi\guiconf.o: ..\emWin\Include\GUI.h
+dcmi\guiconf.o: D:\software\install\MDK-ARM\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+dcmi\guiconf.o: ..\emWin\Include\GUI_ConfDefaults.h
+dcmi\guiconf.o: ..\emWin\Config\GUIConf.h
+dcmi\guiconf.o: ..\emWin\Include\GUI_Type.h
+dcmi\guiconf.o: ..\emWin\Include\LCD.h
+dcmi\guiconf.o: ..\emWin\Include\Global.h
+dcmi\guiconf.o: ..\emWin\Include\GUI_Version.h

@@ -1,0 +1,12 @@
+dcmi\lcdconf_flexcolor_template.o: ..\emWin\Config\LCDConf_FlexColor_Template.c
+dcmi\lcdconf_flexcolor_template.o: ..\emWin\Include\GUI.h
+dcmi\lcdconf_flexcolor_template.o: D:\software\install\MDK-ARM\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+dcmi\lcdconf_flexcolor_template.o: ..\emWin\Include\GUI_ConfDefaults.h
+dcmi\lcdconf_flexcolor_template.o: ..\emWin\Config\GUIConf.h
+dcmi\lcdconf_flexcolor_template.o: ..\emWin\Include\GUI_Type.h
+dcmi\lcdconf_flexcolor_template.o: ..\emWin\Include\LCD.h
+dcmi\lcdconf_flexcolor_template.o: ..\emWin\Include\Global.h
+dcmi\lcdconf_flexcolor_template.o: ..\emWin\Include\GUI_Version.h
+dcmi\lcdconf_flexcolor_template.o: ..\emWin\Include\GUIDRV_FlexColor.h
+dcmi\lcdconf_flexcolor_template.o: ..\Bsp\Inc\lcd_ssd1963.h
+dcmi\lcdconf_flexcolor_template.o: D:\software\install\MDK-ARM\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h

@@ -1,0 +1,17 @@
+dcmi\guidrv_template.o: ..\emWin\Config\GUIDRV_Template.c
+dcmi\guidrv_template.o: D:\software\install\MDK-ARM\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+dcmi\guidrv_template.o: ..\emWin\Include\LCD_Private.h
+dcmi\guidrv_template.o: ..\Bsp\Inc\lcd_ssd1963.h
+dcmi\guidrv_template.o: D:\software\install\MDK-ARM\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+dcmi\guidrv_template.o: ..\emWin\Include\LCD_Protected.h
+dcmi\guidrv_template.o: ..\emWin\Include\LCD.h
+dcmi\guidrv_template.o: ..\emWin\Include\GUI_ConfDefaults.h
+dcmi\guidrv_template.o: ..\emWin\Config\GUIConf.h
+dcmi\guidrv_template.o: ..\emWin\Include\Global.h
+dcmi\guidrv_template.o: ..\emWin\Include\GUI.h
+dcmi\guidrv_template.o: ..\emWin\Include\GUI_Type.h
+dcmi\guidrv_template.o: ..\emWin\Include\GUI_Version.h
+dcmi\guidrv_template.o: ..\emWin\Include\GUI_Private.h
+dcmi\guidrv_template.o: ..\emWin\Include\GUI_Debug.h
+dcmi\guidrv_template.o: ..\emWin\Include\WM_GUI.h
+dcmi\guidrv_template.o: ..\emWin\Include\LCD_ConfDefaults.h

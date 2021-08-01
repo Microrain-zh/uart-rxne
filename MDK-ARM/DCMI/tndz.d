@@ -1,0 +1,9 @@
+dcmi\tndz.o: ..\emWin\emWinTask\tndz.c
+dcmi\tndz.o: ..\emWin\Include\GUI.h
+dcmi\tndz.o: D:\software\install\MDK-ARM\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+dcmi\tndz.o: ..\emWin\Include\GUI_ConfDefaults.h
+dcmi\tndz.o: ..\emWin\Config\GUIConf.h
+dcmi\tndz.o: ..\emWin\Include\GUI_Type.h
+dcmi\tndz.o: ..\emWin\Include\LCD.h
+dcmi\tndz.o: ..\emWin\Include\Global.h
+dcmi\tndz.o: ..\emWin\Include\GUI_Version.h
